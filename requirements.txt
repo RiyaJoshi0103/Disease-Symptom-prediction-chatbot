@@ -5,3 +5,5 @@ joblib
 pandas
 Flask
 scikit_learn
+gunicorn
+gunicorn 
